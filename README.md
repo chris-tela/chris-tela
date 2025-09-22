@@ -1,6 +1,6 @@
 ## Hello World 👋, I'm Chris!
 
-I’m a Computer Science student at Western University, using this space to share and document my journey in tech. Right now, I’m exploring the worlds of full-stack development, AI and machine learning, and cybersecurity.
+I’m a Computer Science student at Western University, using this space to share and document my journey in tech. Right now, I’m exploring the worlds of full-stack development, AI/machine learning, and cybersecurity.
 
 
 ## 🚀 Projects  
