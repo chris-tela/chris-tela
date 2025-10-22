@@ -5,7 +5,7 @@ I’m a Computer Science student at Western University, using this space to shar
 
 ## 🚀 Projects  
 
-I’m currently building a [**Pokémon Nuzlocke Tracker**](https://github.com/chris-tela/nuzlocke-tracker), a tool that helps users track their progress in Nuzlocke runs. It features clean datasets for all main Pokémon games and will eventually support offline database saving for gameplay anywhere.
+I’m currently building a [**Pokémon Nuzlocke Tracker**](https://github.com/chris-tela/nuzlocke-tracker), a tool that helps users track their progress in Nuzlocke runs. It features `.sav` reading, offline data storing, & PokeAPI abstraction.
 
 Some of my other favourite projects include:  
 - [**Credit Card Fraud Detector**](https://github.com/chris-tela/creditcard-fraud) – a machine learning model designed to identify fraudulent transactions.  
