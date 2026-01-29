@@ -9,7 +9,8 @@ I’m currently building a [**Pokémon Nuzlocke Tracker**](https://github.com/ch
 
 Some of my other favourite projects include:  
 - [**Credit Card Fraud Detector**](https://github.com/chris-tela/creditcard-fraud) – a machine learning model designed to identify fraudulent transactions.  
-- [**NHL Wordle App**](https://github.com/chris-tela/nhlapi) – a fun twist on Wordle that challenges players to guess NHL players instead of words.  
+- [**NHL Wordle App**](https://github.com/chris-tela/nhlapi) – a fun twist on Wordle that challenges players to guess NHL players instead of words.
+- [**EcoSentinel**](https://github.com/kayroye/EcoSentinel) - An AI + IoT solution to help solve the billions of damages caused by wildfires yearly (Hackathon).
 
 
 ## 🛠 Skills  
