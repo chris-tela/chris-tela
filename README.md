@@ -1,4 +1,4 @@
-## Hello World 👋, I'm Chris!
+## Hello World, I'm Chris!
 
 I’m a Computer Science student at Western University, using this space to share and document my journey in tech. Right now, I’m exploring the worlds of full-stack development, AI/machine learning, and cybersecurity.
 
@@ -8,6 +8,7 @@ I’m a Computer Science student at Western University, using this space to shar
 I’m currently building a [**Pokémon Nuzlocke Tracker**](https://github.com/chris-tela/nuzlocke-tracker), a tool that helps users track their progress in Nuzlocke runs. It features `.sav` reading, offline data storing, & PokeAPI abstraction.
 
 Some of my other favourite projects include:  
+- [**CareLink**](https://github.com/kayroye/CareLink) - An offline-focused referral tracking system designed for rural healthcare industries. Finished in 2nd place in the Spark x Western Developer's Society 2026 Hackathon.
 - [**Credit Card Fraud Detector**](https://github.com/chris-tela/creditcard-fraud) – a machine learning model designed to identify fraudulent transactions.  
 - [**NHL Wordle App**](https://github.com/chris-tela/nhlapi) – a fun twist on Wordle that challenges players to guess NHL players instead of words.
 - [**EcoSentinel**](https://github.com/kayroye/EcoSentinel) - An AI + IoT solution to help solve the billions of damages caused by wildfires yearly (Hackathon).
