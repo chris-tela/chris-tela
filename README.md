@@ -5,7 +5,7 @@ I’m a Computer Science student at Western University, using this space to shar
 
 ## 🚀 Projects  
 
-I’m currently building a [**Pokémon Nuzlocke Tracker**](https://github.com/chris-tela/nuzlocke-tracker), a tool that helps users track their progress in Nuzlocke runs. It features `.sav` reading, offline data storing, & PokeAPI abstraction.
+I’m currently building a [**Pokémon Nuzlocke Tracker**](https://github.com/chris-tela/nuzlocke-tracker-public), a tool that helps users track their progress in Nuzlocke runs. It features `.sav` reading, offline data storing, & PokeAPI abstraction.
 
 Some of my other favourite projects include:  
 - [**CareLink**](https://github.com/kayroye/CareLink) - An offline-focused referral tracking system designed for rural healthcare industries. Finished in 2nd place in the Spark x Western Developer's Society 2026 Hackathon.
