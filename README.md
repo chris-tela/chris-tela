@@ -1,4 +1,4 @@
-## Hi there fellow human!
+## Hi!
 
 I’m a Computer Science student at Western University, using this space to share and document my journey in tech. Right now, I’m exploring the worlds of full-stack development, AI/machine learning, and cybersecurity.
 
