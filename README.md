@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f2683,100:8b5cf6&height=170&section=header&text=Hi,%20I'm%20Chris&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=CS%20@%20Western%20University%20%C2%B7%20Full-stack%20%C2%B7%20AI%2FML%20%C2%B7%20Security&descAlignY=58&descSize=16" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f2683,100:8b5cf6&height=170&section=header&text=Hi,%20I'm%20Chris&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=CS%20@%20Western%20University%20%C2%B7%20Full-stack%20%C2%B7%20QA%20%C2%B7%20AI%2FML&descAlignY=58&descSize=16" width="100%" alt="header"/>
 
 [![Website](https://img.shields.io/badge/christophertela.com-4f2683?style=flat-square&logo=googlechrome&logoColor=white)](https://www.christophertela.com)
 [![Nuzlify](https://img.shields.io/badge/nuzlify.com-ef4444?style=flat-square&logo=pokemon&logoColor=white)](https://nuzlify.com)
