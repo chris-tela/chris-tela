@@ -20,7 +20,7 @@ I'm a Computer Science student at Western University. I like building tools peop
 Full-stack tracker for Pokémon Nuzlocke runs (Gen I–V). Imports `.sav` files to fill in your team, badges and boxes automatically, plus route and gym progression, trainer rosters and team type-coverage analysis.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-<br/>**[Live site](https://nuzlify.com)** · [Issues & feedback](https://github.com/chris-tela/nuzlocke-tracker-public)
+<br/>**[Live site](https://nuzlify.com)**
 </td>
 <td width="50%" valign="top">
 <img src="assets/answermethis.svg" width="56" align="left" alt=""/>
