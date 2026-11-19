@@ -28,7 +28,7 @@ Full-stack tracker for Pokémon Nuzlocke runs (Gen I–V). Imports `.sav` files 
 ### [Answer Me This](https://answermethis.vercel.app/)
 Browser party game in the style of Jackbox. One screen hosts, everyone else joins from their phone with a room code.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Multiplayer](https://img.shields.io/badge/Multiplayer-Room_codes-8b5cf6?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 <br/>**[Play it](https://answermethis.vercel.app/)**
 </td>
 </tr>
