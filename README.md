@@ -46,7 +46,7 @@ Offline-first referral tracking for rural healthcare, built on open-source AI an
 <img src="assets/reelsblocker.svg" width="56" align="left" alt=""/>
 
 ### [reels-blocker](https://github.com/chris-tela/reels-blocker)
-Userscript that blocks Instagram Reels scrolling but leaves the rest of Instagram usable. Same approach as the ~$4/month apps, without the subscription.
+Userscript that blocks Instagram Reels scrolling but leaves the rest of Instagram usable.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![iOS](https://img.shields.io/badge/iOS_Shortcuts-000?style=flat-square&logo=apple&logoColor=white)
 <br/>**[Repo](https://github.com/chris-tela/reels-blocker)**
