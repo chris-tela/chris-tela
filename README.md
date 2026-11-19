@@ -14,10 +14,10 @@ I'm a Computer Science student at Western University. I like building tools peop
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/nuzlify.svg" width="56" align="left" alt=""/>
+<img src="assets/nuzlify.png" width="56" align="left" alt=""/>
 
 ### [Nuzlify](https://nuzlify.com)
-Full-stack tracker for Pokémon Nuzlocke runs (Gen I–V). Imports `.sav` files to fill in your team, badges and boxes automatically, plus route and gym progression, trainer rosters and team type-coverage analysis.
+Full-stack tracker for Pokémon Nuzlocke runs across every generation and popular ROM hacks. Imports `.sav` files to fill in your team, badges and boxes automatically, plus route and gym progression, trainer rosters and team type-coverage analysis.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 <br/>**[Live site](https://nuzlify.com)**
@@ -58,7 +58,6 @@ Userscript that blocks Instagram Reels scrolling but leaves the rest of Instagra
 
 | | Project | What it is |
 |:-:|---|---|
-| <img src="assets/housingbot.svg" width="32"/> | **Western Housing Bot** | Scrapes Western's off-campus listings every morning and emails me new ones that match my criteria (GitHub Actions + Python) |
 | <img src="assets/fraud.svg" width="32"/> | [**Credit Card Fraud Detector**](https://github.com/chris-tela/creditcard-fraud) | Random-forest model with 96% accuracy, built at Western Datathon 2024 |
 | <img src="assets/ecosentinel.svg" width="32"/> | [**EcoSentinel**](https://github.com/kayroye/EcoSentinel) | AI + IoT wildfire detection (hackathon) |
 | <img src="assets/nhl.svg" width="32"/> | [**NHL Wordle**](https://github.com/chris-tela/nhlapi) | Wordle, but you guess NHL players from stat hints |
